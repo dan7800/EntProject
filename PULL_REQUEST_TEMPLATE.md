@@ -1,5 +1,5 @@
 ### Team Name
 
-### Detailed Desription of Changes
+### Detailed Description of Changes
 
 ### Affected Teams
